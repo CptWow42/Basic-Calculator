@@ -29,7 +29,7 @@ A sleek, responsive calculator built with vanilla HTML, CSS, and JavaScript. Fea
 
 ## 🚀 Live Demo
 
-[View Live Calculator](https://your-github-pages-link-here.com) <!-- Add your deployment link -->
+[View Live Calculator](https://cptwow42.github.io/Basic-Calculator/) <!-- Add your deployment link -->
 
 ## 📁 Project Structure
 
