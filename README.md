@@ -1,4 +1,37 @@
-## Reacting Calculator
+# 🧮 Modern Web Calculator
+
+A sleek, responsive calculator built with vanilla HTML, CSS, and JavaScript. Features a clean dark-themed UI with smooth interactions and robust error handling. This project demonstrates core front-end development principles with clean, well-organized code.
+
+![Calculator Interface](https://img.shields.io/badge/Status-Functional-brightgreen) 
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+## ✨ Features
+
+### 🎨 **UI/UX Design**
+- **Modern Dark Theme**: Clean #2c3e50/#1a252f color scheme
+- **Responsive Layout**: Perfectly centered with CSS Flexbox
+- **Interactive Feedback**: Smooth button press animations (`transform: scale(0.95)`)
+- **Professional Typography**: Clear, large display with proper overflow handling
+- **Visual Hierarchy**: Color-coded buttons (gray numbers, orange operators, red clear)
+
+### 🧠 **Core Functionality**
+- **Basic Operations**: Addition, subtraction, multiplication, division
+- **Smart Display Management**: Handles decimal points, leading zeros, and calculation chaining
+- **Error Prevention**: Division by zero protection with user alerts
+- **State Management**: Tracks current input, previous value, and operations
+- **Calculation Chaining**: Perform multiple operations sequentially (e.g., `5 + 3 × 2`)
+
+### 🛠️ **Technical Implementation**
+- **No `eval()` Usage**: Custom calculation logic using switch statements for security
+- **Event Delegation**: Efficient single event listener for all buttons
+- **Clean State Management**: Four key variables track all calculator state
+- **Proper Number Parsing**: `parseFloat()` with NaN validation
+
+## 🚀 Live Demo
+
+[View Live Calculator](https://your-github-pages-link-here.com) <!-- Add your deployment link -->
+
+## 📁 Project Structure
 
 text
 
